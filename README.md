@@ -51,7 +51,4 @@ argument passed to it via the command line._
     if present).
     * `[FLAGS]` is the flags that were used.
 
-* **9. Pass LinkedIn technical interview level0**
-  * [101-passed_linkedin_regex_challenge.jpg](./101-passed_linkedin_regex_challenge.jpg):
-  Screenshot signifying completion of the
   [LinkedIn Engineering Regex Puzzle](https://engineering.linkedin.com/puzzle).
